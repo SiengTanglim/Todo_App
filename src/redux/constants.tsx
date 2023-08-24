@@ -1,0 +1,9 @@
+export const USER = 'LOAD_USER';
+export const LANGUAGE = 'LOAD_LANGUAGE';
+export const CONNECTION = 'LOAD_NO_CONNECTION';
+export const HOME = 'LOAD_HOME';
+export const AREACODE = 'LOAD_AREACODE'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_TRACK_MODAL = 'SET_TRACK_MODAL'
+export const SET_SUBSCRIBE_MODAL = 'SET_SUBSCRIBE_MODAL'
+export const TERM = 'LOAD_TERM';
